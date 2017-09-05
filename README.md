@@ -1,3 +1,1 @@
-This project is to learn what virtual machine is and to install the vagrant VM on to our machine.
-Task 0. 
-Ssh into your Ubuntu VM. What does the command uname prints when you run it without any option?
+This repository will contain all of the directories for my Holberton Zero Day projects
