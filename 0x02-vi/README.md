@@ -1,0 +1,1 @@
+This project is showing me how to use the simple features of vi
